@@ -1,6 +1,8 @@
 # vMenu
 vMenu totalement traduit en francais
 
+Pour changer les touches et les droit admin cest dans le permissions.cfg
+
 Pour Changer la touche du menu à la ligne 16
 
 Pour Changer la touche le NoClip a la ligne 17
