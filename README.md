@@ -16,6 +16,7 @@ Maintenant passons au server.cfg
 Vous allez mettre au debut de ligne 
 
 exec permissions.cfg
+
 ensure vMenu
 
 
